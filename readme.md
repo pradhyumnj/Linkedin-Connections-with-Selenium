@@ -1,0 +1,1 @@
+This project creates a bot using selenium's python api to automatically send connection requests to people on Linkein
